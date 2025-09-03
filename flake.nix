@@ -29,6 +29,9 @@
           pkgs.git
           pkgs.gh
           pkgs.alacritty
+          pkgs.vesktop
+          pkgs.sl
+          pkgs.texpresso
         ];
 
       fonts.packages =
