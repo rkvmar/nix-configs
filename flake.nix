@@ -32,6 +32,7 @@
           pkgs.vesktop
           pkgs.sl
           pkgs.texpresso
+          pkgs.texliveSmall
         ];
 
       fonts.packages =
