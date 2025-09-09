@@ -33,6 +33,7 @@
           pkgs.sl
           pkgs.texpresso
           pkgs.texliveSmall
+          pkgs.tectonic
         ];
 
       fonts.packages =
