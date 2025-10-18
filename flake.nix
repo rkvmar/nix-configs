@@ -34,6 +34,8 @@
           pkgs.texpresso
           pkgs.texliveSmall
           pkgs.tectonic
+          pkgs.spotdl
+          pkgs.lazygit
         ];
 
       fonts.packages =
