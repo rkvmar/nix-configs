@@ -36,6 +36,8 @@
           pkgs.tectonic
           pkgs.spotdl
           pkgs.lazygit
+          pkgs.sbcl
+          pkgs.roswell
         ];
 
       fonts.packages =
