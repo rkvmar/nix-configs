@@ -38,6 +38,7 @@
           pkgs.lazygit
           pkgs.sbcl
           pkgs.roswell
+          pkgs.aerospace
         ];
 
       fonts.packages =
